@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+}
+/********** Menu de navegacion  **************/
+nav{
+    background-color: black;
+    padding-top: 17px;
+    padding-bottom: 25px;
+    display: flex;
+    align-items: center;
+    font-size: 12px;
+}
+.boxNav{
+   
+    color: rgba(255, 255, 255, 0.925);
+    width: 100%;
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+}
+.logo{
+    width: 100px;
+}
+
+.loguin{
+    border: 1px solid white;
+    padding: 8px;
+    border-radius: 30px;
+    font-weight: 400;
+    text-transform: uppercase;
+    font-style: normal;
+    font-family: Roboto, "Open Sans", Arial, sans-serif;
+    line-height: 6px;
+}
+.actvaOferta{
+    border: 1px solid #ffffff;
+    border-radius: 10px;
+    padding: 0.3rem;
+    text-align: center;
+    font-weight: 600;
+    font-style: normal;
+    line-height: 14px;
+    font-family: Roboto, "Open Sans", Arial, sans-serif;
+}
+
+
+
+/********** End menu de navegacion  **************/
