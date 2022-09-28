@@ -1,5 +1,6 @@
 # <h1>Replica-de-Deezer></h1>
-En este proyecto realizo una imitacion de la pagina de deezer.
+En este proyecto realizo una imitacion de la pagina de deezer. 
+Coloque en  practica FlexBox.
 
 
 
